@@ -30,7 +30,7 @@ const Detail = () => {
             </Background>
 
             <ImageTitle>
-                <img src={detailData.cardImg} alt="" />
+                <img src={detailData.titleImg} alt="" />
             </ImageTitle>
 
             <ContentMeta>
